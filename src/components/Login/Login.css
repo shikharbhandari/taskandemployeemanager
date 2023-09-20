@@ -1,0 +1,26 @@
+.loginPage {
+    background: url('https://mediaassets.cbre.com/cdn/-/media/project/cbre/dotcom/global/home/2023/tech-talent-2023.jpg?iar=0&rev=79b8c225ec0844f6ad4e3db43664b920&key=homepagehero-default&device=desktop');
+    background-size: cover;
+    /* background: linear-gradient(rgba(172, 150, 150, 0.5), rgba(78, 60, 106, 0.5)); */
+    
+}
+
+.loginForm {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 35px;
+
+}
+
+.submit-btn{
+    background-color: #538184;
+    color: white;
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    font-weight: 350;
+}
+
+p{
+    font-size: 15px;
+    color: rgb(94, 18, 18);
+}

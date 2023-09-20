@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.login-form{
+  width: 100%;
+  max-width: 400px;
+}
+
+.wrapper{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  overflow-x: hidden;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}

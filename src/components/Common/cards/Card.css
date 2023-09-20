@@ -1,0 +1,15 @@
+.cardarea{
+    width: 300px !important;
+    padding: 0px !important;
+    background-color: #f3f9f3 !important;
+}
+
+.card-title{
+    font-size: 65px !important;
+}
+
+.card-header
+{
+    background-color: #447d70 !important;
+    color: white !important;
+}

@@ -1,0 +1,33 @@
+#employee {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #employee td, #employee th {
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  #employee tr:hover {background-color: #ddd;}
+  
+  #employee th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #395758;
+    color: white;
+  }
+
+  table tbody {
+    display: block;
+    max-height: 400px;
+    overflow-y: scroll;
+  }
+  
+  table thead, table tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+  }
+  

@@ -1,0 +1,27 @@
+#tasks {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tasks td, #tasks th {
+  padding: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
+#tasks tr:hover {background-color: #ddd;}
+
+#tasks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #395758;
+  color: white;
+}
+
+
+.quick-search{
+  width: 500px !important;
+  height: 38px !important;
+  margin: 0 35rem 0 2rem;
+}
